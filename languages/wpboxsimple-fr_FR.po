@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Box Simple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-12 13:42+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Becuwe <adrien.becuwe@gmail.com>\n"
+"Language-Team: FunAndProg <adrien.becuwe@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple\n"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:182
+msgid "Box Simple"
+msgstr "Simple Box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:184
+msgid "Add/Edit"
+msgstr "Ajouter / Editer"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:186
+msgid "List"
+msgstr "Gérer"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:188
+msgid "Options"
+msgstr "Options"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:207
+msgid "Index WP Box Simple"
+msgstr "Index de WP Simple Box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:210
+msgid "Number of Box"
+msgstr "Nombre(s) de Mot Clef(s)"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:214
+msgid "Number of Box Publish"
+msgstr "Nombre(s) de Box Publié"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:343
+msgid "Box added with success !"
+msgstr "Box ajouté avec succès !"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:345
+msgid "Box updated with success !"
+msgstr "Option mise a jour avec succès !"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:351
+#, php-format
+msgid "%s field missing. !"
+msgstr "%s champ manquant. !"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:369
+#, php-format
+msgid "Edit the Box: %s"
+msgstr "Editer cette box : %s"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:372
+msgid "Add an Box"
+msgstr "Ajouter (ou Editer) cette box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:395
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:430
+msgid "Save Box"
+msgstr "Sauvegardé cette Box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:399
+msgid "Publish Status"
+msgstr "Statut de publication"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:408
+msgid "Date Created"
+msgstr "Date de la création"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:413
+msgid "User"
+msgstr "Propriétaire"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:459
+msgid "Slug"
+msgstr "Identifiant"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:466
+msgid "Box Content"
+msgstr "Contenu de la Box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:470
+msgid "Text of your box"
+msgstr "Texte de votre Box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:520
+msgid "Box deleted with success !"
+msgstr "Box supprimé avec succès !"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:522
+msgid "Boxs deleted with success !"
+msgstr "Boxs supprimés avec succès !"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:530
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Resultat de la recherche avec \"%s\""
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:532
+#, php-format
+msgid "Manage Boxs in Tag ID: %d"
+msgstr "Gestions des Box ayant le tag : %d"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:534
+msgid "Manage Boxs"
+msgstr "Gérer les Boxs"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:541
+msgid "Search"
+msgstr "Recherche"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:550
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:586
+msgid "Delete"
+msgstr "Suprimer"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:563
+msgid "User ID"
+msgstr "Id du propriétaire"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:564
+msgid "Title"
+msgstr "Titre"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:565
+msgid "State"
+msgstr "Etat"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:566
+msgid "Action"
+msgstr "Action"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:572
+msgid "No box"
+msgstr "Aucune box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:585
+msgid "Edit"
+msgstr "Edition"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:607
+msgid "Published"
+msgstr "Publié"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:610
+msgid "Wait this validation"
+msgstr "En attende de validation"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:613
+msgid "Private"
+msgstr "Privée"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:616
+msgid "Refused"
+msgstr "Refusé"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:641
+msgid "Options updated with success !"
+msgstr "Option mise a jour avec succès !"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:646
+msgid "Options Wp Team Boxs"
+msgstr "Option de WP Box Simple"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:651
+msgid "Widget"
+msgstr "Widget"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:654
+msgid "Active widget"
+msgstr "Activer le widget"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:658
+msgid "Tinymce Editor"
+msgstr "Editeur de Texte : Tinymce"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:661
+msgid "Activate the tinymce"
+msgstr "Activé Tinymce"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:667
+msgid "Update options"
+msgstr "Mettre à jour les options"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/wp-box-simple.php:1054
+msgid "Latest Boxs"
+msgstr "Derniers box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/include/wbs-widget.php:15
+msgid "Widget WP Simple Box"
+msgstr "Widget Simple Box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/include/wbs-widget.php:16
+msgid "View a Box"
+msgstr "Visualiser cette box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/theme/box-detail.php:21
+msgid "Details of this Member "
+msgstr "Détails de cette box"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/theme/box-detail.php:56
+msgid "No Member for this ID."
+msgstr "Pas de box pour cet ID"
+
+#: /Applications/MAMP/htdocs/dev/wp-content/plugins/wp_box_simple/theme/page.box.php:51
+msgid "No Members"
+msgstr "Aucune Box"
+
+#~ msgid "Picture"
+#~ msgstr "Image"
+#~ msgid "In"
+#~ msgstr "Sur"
+#~ msgid "Team Directory"
+#~ msgstr "Annuaire de la Team"
+#~ msgid "Tags"
+#~ msgstr "Mot clef(s)"
+#~ msgid "Featured Members"
+#~ msgstr "Membres En 1ère page"
+#~ msgid "Number of Member"
+#~ msgstr "Nombre(s) de membre(s)"
+#~ msgid "Member updated with success !"
+#~ msgstr "Membre mis a jour avec succès!"
+#~ msgid "Save Member"
+#~ msgstr "Enregistrer le membre"
+#~ msgid "View this Member"
+#~ msgstr "Visualiser ce membre"
+#~ msgid "Example: Wordpress, Music, Book"
+#~ msgstr "Exemple: Wordpress, Musique, Livre"
+#~ msgid "Personnel"
+#~ msgstr "Information Personnel"
+#~ msgid "Name"
+#~ msgstr "Nom"
+#~ msgid "Fisrtname"
+#~ msgstr "Prénom"
+#~ msgid "Surname"
+#~ msgstr "Surnom"
+#~ msgid "Matos"
+#~ msgstr "Matériel"
+#~ msgid "Description Long of your Vtt"
+#~ msgstr "Description complète du membre"
+#~ msgid "Description Rider"
+#~ msgstr "Description du Rider"
+#~ msgid "Your Description "
+#~ msgstr "Votre Description"
+#~ msgid "Existing picture"
+#~ msgstr "Image existante"
+#~ msgid "Website Member"
+#~ msgstr "Site Web"
+#~ msgid "Example : http://mywebsite.fr"
+#~ msgstr "Exemple : http://votresiteweb.fr"
+#~ msgid "Diver"
+#~ msgstr "Divers"
+#~ msgid "Member deleted with success !"
+#~ msgstr "Membre suprimé avec succès !"
+#~ msgid "Members deleted with success !"
+#~ msgstr "Membre supprimés avec succès !"
+#~ msgid "-"
+#~ msgstr "-"
+#~ msgid "Filter"
+#~ msgstr "Filtrer"
+#~ msgid "Distance"
+#~ msgstr "Distance Parcourue en Vtt"
+#~ msgid "View"
+#~ msgstr "Voir"
+#~ msgid "Tags Manage"
+#~ msgstr "Gérer les tags"
+#~ msgid "Delete Term"
+#~ msgstr "Suprimer ce terme"
+#~ msgid "Count"
+#~ msgstr "Compteur"
+#~ msgid "No Tags."
+#~ msgstr "Aucun Tag."
+#~ msgid "Medium width"
+#~ msgstr "Largeur moyenne"
+#~ msgid "Medium height"
+#~ msgstr "Hauteur moyenne"
+#~ msgid "Thumb width"
+#~ msgstr "Largueur des thumb "
+#~ msgid "Thumb height"
+#~ msgstr "Hauteur des thumb "
+#~ msgid "File extensions allowed"
+#~ msgstr "Extensions des fichiers"
+#~ msgid "Example: JPG, PNG, GIF"
+#~ msgstr "Exemple : JPG,PNG,GIF"
+#~ msgid "Verions Wordpress"
+#~ msgstr "Version de Wordpress"
+#~ msgid "Example: 2.0,2.1"
+#~ msgstr "Exemple: 2.0,2.1"
+#~ msgid "Max file size"
+#~ msgstr "Taille maximum des fichiers"
+#~ msgid "Example: 10 MB"
+#~ msgstr "Exemple : 10 MB"
+#~ msgid "Format Time"
+#~ msgstr "Format de la date"
+#~ msgid "Example : j F Y "
+#~ msgstr "Exemple : j F Y "
+#~ msgid "Featured boxs updated with success !"
+#~ msgstr "Les membres sponsorisés on été mis à jour !"
+#~ msgid "This widget allow to display the latest Members"
+#~ msgstr "Ce widget permet d'afficher les dernier membres"
+#~ msgid "No box."
+#~ msgstr "Aucun Membre"
+#~ msgid " Cloud of tag of box directory"
+#~ msgstr "Nuages de tags des membres"
+#~ msgid "Members quantity:"
+#~ msgstr "Nombres de membre :"
+#~ msgid "Display thumb ?"
+#~ msgstr "Afficher le thumb?"
+#~ msgid "No Themes"
+#~ msgstr "Aucun Membre"
+#~ msgid "Traductor"
+#~ msgstr "Traducteur"
+#~ msgid "Versions Require"
+#~ msgstr "Version de Wordpress requis"
+#~ msgid "Theme Tag with %s"
+#~ msgstr "Thème Taggé avec %s"
+#~ msgid "No Themes for this Tag"
+#~ msgstr "Pas de membrepour ce tag"
+#~ msgid "Index Directory Themes"
+#~ msgstr "Index de l'annuaire des thèmes"
+#~ msgid "Date Modified"
+#~ msgstr "Date de la modification"
+#~ msgid "Description Long"
+#~ msgstr "Description complète"
+#~ msgid "Description Short"
+#~ msgstr "Description courte"
+#~ msgid "Description Short of theme"
+#~ msgstr "Description courte du thème"
+#~ msgid "Name Author"
+#~ msgstr "Nom de l'auteur"
+#~ msgid "Name Traductor"
+#~ msgstr "Nom du traducteur"
+#~ msgid "Location Author"
+#~ msgstr "Site web de l'auteur"
+#~ msgid "Location Theme"
+#~ msgstr "Site web du thème"
+#~ msgid "WordPress Version Required"
+#~ msgstr "Verion de Wordpress requis"
+#~ msgid "Translation"
+#~ msgstr "Traduction"
+#~ msgid "Translation (*.mo)"
+#~ msgstr "Trauduction( *.mo)"
+#~ msgid "OR Url"
+#~ msgstr "Ou lien"
+#~ msgid "Comment"
+#~ msgstr "Commentaire"
+#~ msgid "Counter"
+#~ msgstr "Compteur"
+#~ msgid "Theme"
+#~ msgstr "Thème"
+#~ msgid "Latest Plugins"
+#~ msgstr "Derniers plugins"
+#~ msgid "No plugin."
+#~ msgstr "Aucun plugin"
+#~ msgid "Author"
+#~ msgstr "Auteur"
+#~ msgid "Location Themes"
+#~ msgstr "Site web du thème"
+#~ msgid "by"
+#~ msgstr "par"
+#~ msgid "and translation by"
+#~ msgstr "et traduit par"
+#~ msgid "Themes homepage"
+#~ msgstr "SIte web du thème"
+#~ msgid "Tagged in"
+#~ msgstr "Taggé avec "
+#~ msgid "Plugins Directory"
+#~ msgstr "Plugins annuaire"
+#~ msgid "Plugin updated with success !"
+#~ msgstr "Plugin mise a jour avec succès !"
+#~ msgid "Add an Plugin"
+#~ msgstr "Ajouter un plugin"
+#~ msgid "Save Plugin"
+#~ msgstr "Enregistrer"
+#~ msgid "Location Plugins"
+#~ msgstr "Site web du plugin"
+#~ msgid "Plugin deleted with success !"
+#~ msgstr "Plugin suprimeé avec succès !"
+#~ msgid "Plugins deleted with success !"
+#~ msgstr "Plugins suprimés avec succès !"
+#~ msgid "Manage Plugins"
+#~ msgstr "Gérer les plugins"
+#~ msgid "No plugins"
+#~ msgstr "Aucun plugin"
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+#~ msgid "in"
+#~ msgstr "sur"
+#~ msgid "Nombre d'Item"
+#~ msgstr "Nombre d'Item"
+#~ msgid "File Picture"
+#~ msgstr "Fichier de l'image"
+#~ msgid "Items tags with  "
+#~ msgstr "Items taggés avec"
+#~ msgid "Search in list of items"
+#~ msgstr "Recherche dans la lis des items"
+#~ msgid "No item form this Search "
+#~ msgstr "Pas d'item pour cet recherche"
+#~ msgid "Manage a list of items"
+#~ msgstr "Oragniser la liste des items"
+#~ msgid "Height picture"
+#~ msgstr "Hauteur de l'Image"
+#~ msgid "Height Widget picture"
+#~ msgstr "Hauteur de l'image du widget"
+#~ msgid "Width Widget picture"
+#~ msgstr "Largeur de l'image du widget"
+#~ msgid "Extention allow for Picture"
+#~ msgstr "Extention autoriser pour les images"
+#~ msgid "Title of  widget"
+#~ msgstr "Titre du Widget"
+#~ msgid "Quantity items:"
+#~ msgstr "Quantité d'Item :"
+
+#, fuzzy
+#~ msgid "Date Created:"
+#~ msgstr "Date de la création"
+
